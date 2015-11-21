@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="libjnidevicewrapper">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/flironesdk/libs/armeabi-v7a/libjnidevicewrapper.so" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
